@@ -1,8 +1,6 @@
 ﻿<h1>I'm Sibefax</h1>
 <h3>Aspiring Game Developer</h3>
 
-- I’m currently working on [Eternal Grove](https://github.com/Sibefax/Eternal-Grove)
-
 - All of my projects are available at [sibefax.github.io](sibefax.github.io)
 
 - My email **sibefax@gmail.com**
